@@ -1,0 +1,7 @@
+<filters>
+  <allowed>
+    <regex>.*:.*_map/.*</regex>
+    <regex>imos:anmn_acoustics/.*</regex>
+    <regex>aodn:aodn_wamsi_sediment_data/.*</regex>
+  </allowed>
+</filters>

@@ -1,0 +1,24 @@
+<settings>
+  <id>SettingsInfoImpl--536fbeba:15bb1b970c1:-7ffc</id>
+  <workspace>
+    <id>WorkspaceInfoImpl--536fbeba:15bb1b970c1:-7ffe</id>
+    <name>aodn</name>
+  </workspace>
+  <contact>
+    <id>contact</id>
+  </contact>
+  <charset>UTF-8</charset>
+  <numDecimals>8</numDecimals>
+  <onlineResource>http://geoserver.org</onlineResource>
+  <verbose>false</verbose>
+  <verboseExceptions>false</verboseExceptions>
+  <metadata>
+    <map>
+      <entry>
+        <string>quietOnNotFound</string>
+        <boolean>false</boolean>
+      </entry>
+    </map>
+  </metadata>
+  <localWorkspaceIncludesPrefix>false</localWorkspaceIncludesPrefix>
+</settings>
