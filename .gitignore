@@ -1,4 +1,5 @@
 security/usergroup/default/users.xml
+logs/*
 .DS_Store
 *.iml
 Thumbs.db
