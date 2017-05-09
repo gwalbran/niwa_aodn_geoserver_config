@@ -4,5 +4,3 @@ logs/*
 *.iml
 Thumbs.db
 gwc-layers/*
-global.xml
-wfs.xml
