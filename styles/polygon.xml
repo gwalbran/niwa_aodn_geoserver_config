@@ -1,5 +1,8 @@
 <style>
-  <id>StyleInfoImpl-78ff667e:12476299803:-7ffa</id>
+  <id>StyleInfoImpl--3a52b6b4:1428ce0125d:-7ffe</id>
   <name>polygon</name>
-  <filename>default_polygon.sld</filename>
+  <sldVersion>
+    <version>1.0.0</version>
+  </sldVersion>
+  <filename>default_line.sld</filename>
 </style>

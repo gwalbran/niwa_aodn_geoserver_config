@@ -1,6 +1,6 @@
 <wps>
-  <id>WPSInfoImpl-3d10ee1f:15be59384e5:-7ffc</id>
-  <enabled>true</enabled>
+  <id>WPSInfoImpl--6b136ac:14d99e67450:-7ffd</id>
+  <enabled>false</enabled>
   <name>WPS</name>
   <title>Prototype GeoServer WPS</title>
   <versions>
@@ -13,8 +13,8 @@
   <verbose>false</verbose>
   <connectionTimeout>30.0</connectionTimeout>
   <resourceExpirationTimeout>300</resourceExpirationTimeout>
-  <maxSynchronousProcesses>2</maxSynchronousProcesses>
-  <maxAsynchronousProcesses>2</maxAsynchronousProcesses>
+  <maxSynchronousProcesses>1</maxSynchronousProcesses>
+  <maxAsynchronousProcesses>1</maxAsynchronousProcesses>
   <processGroups>
     <processGroup>
       <factoryClass>org.geoserver.wps.DeprecatedProcessFactory</factoryClass>
@@ -37,7 +37,10 @@
       <enabled>false</enabled>
     </processGroup>
   </processGroups>
+  <catalogMode>HIDE</catalogMode>
   <maxComplexInputSize>0</maxComplexInputSize>
   <maxSynchronousExecutionTime>0</maxSynchronousExecutionTime>
+  <maxSynchronousTotalTime>0</maxSynchronousTotalTime>
   <maxAsynchronousExecutionTime>0</maxAsynchronousExecutionTime>
+  <maxAsynchronousTotalTime>0</maxAsynchronousTotalTime>
 </wps>
