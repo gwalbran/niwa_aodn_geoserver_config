@@ -3,105 +3,7 @@
     <filter>
         <name>stationName</name>
         <type>string</type>
-        <label>StationName</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>datasource</name>
-        <type>string</type>
-        <label>Datasource</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasTemperature</name>
-        <type>boolean</type>
-        <label>HasTemperature</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasConductivity</name>
-        <type>boolean</type>
-        <label>HasConductivity</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasCurrentDirection</name>
-        <type>boolean</type>
-        <label>HasCurrentDirection</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasCurrentDirectionMagnetic</name>
-        <type>boolean</type>
-        <label>HasCurrentDirectionMagnetic</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasCurrentDirectionTrue</name>
-        <type>boolean</type>
-        <label>HasCurrentDirectionTrue</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasCurrentSpeed</name>
-        <type>boolean</type>
-        <label>HasCurrentSpeed</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasDissolvedOxygen</name>
-        <type>boolean</type>
-        <label>HasDissolvedOxygen</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasOxygenSaturation</name>
-        <type>boolean</type>
-        <label>HasOxygenSaturation</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasPressure</name>
-        <type>boolean</type>
-        <label>HasPressure</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasPressureAbsolute</name>
-        <type>boolean</type>
-        <label>HasPressureAbsolute</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasPressureRelative</name>
-        <type>boolean</type>
-        <label>HasPressureRelative</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasSalinity</name>
-        <type>boolean</type>
-        <label>HasSalinity</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasDepthInterpolated</name>
-        <type>boolean</type>
-        <label>HasDepthInterpolated</label>
+        <label>Station Name</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
@@ -136,42 +38,42 @@
     <filter>
         <name>currentDirection</name>
         <type>decimal</type>
-        <label>CurrentDirection</label>
+        <label>Current Direction</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
         <name>currentDirectionMagnetic</name>
         <type>decimal</type>
-        <label>CurrentDirectionMagnetic</label>
+        <label>Current Direction Magnetic</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
         <name>currentDirectionTrue</name>
         <type>decimal</type>
-        <label>CurrentDirectionTrue</label>
+        <label>Current Direction True</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
         <name>currentSpeed</name>
         <type>decimal</type>
-        <label>CurrentSpeed</label>
+        <label>Current Speed</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
         <name>dissolvedOxygen</name>
         <type>decimal</type>
-        <label>DissolvedOxygen</label>
+        <label>Dissolved Oxygen</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
         <name>oxygenSaturation</name>
         <type>decimal</type>
-        <label>OxygenSaturation</label>
+        <label>Oxygen Saturation</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
@@ -185,14 +87,14 @@
     <filter>
         <name>pressureAbsolute</name>
         <type>decimal</type>
-        <label>PressureAbsolute</label>
+        <label>Pressure Absolute</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
         <name>pressureRelative</name>
         <type>decimal</type>
-        <label>PressureRelative</label>
+        <label>Pressure Relative</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
@@ -206,7 +108,7 @@
     <filter>
         <name>depthInterpolated</name>
         <type>decimal</type>
-        <label>DepthInterpolated</label>
+        <label>Depth Interpolated</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>

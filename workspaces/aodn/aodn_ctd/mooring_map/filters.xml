@@ -3,119 +3,28 @@
     <filter>
         <name>stationName</name>
         <type>string</type>
-        <label>StationName</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>datasource</name>
-        <type>string</type>
-        <label>Datasource</label>
+        <label>Station Name</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
         <name>startTime</name>
         <type>datetime</type>
-        <label>StartTime</label>
+        <label>Start Time</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
         <name>endTime</name>
         <type>datetime</type>
-        <label>EndTime</label>
+        <label>End Time</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
-        <name>hasTemperature</name>
-        <type>boolean</type>
-        <label>HasTemperature</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasConductivity</name>
-        <type>boolean</type>
-        <label>HasConductivity</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasCurrentDirection</name>
-        <type>boolean</type>
-        <label>HasCurrentDirection</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasCurrentDirectionMagnetic</name>
-        <type>boolean</type>
-        <label>HasCurrentDirectionMagnetic</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasCurrentDirectionTrue</name>
-        <type>boolean</type>
-        <label>HasCurrentDirectionTrue</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasCurrentSpeed</name>
-        <type>boolean</type>
-        <label>HasCurrentSpeed</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasDissolvedOxygen</name>
-        <type>boolean</type>
-        <label>HasDissolvedOxygen</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasOxygenSaturation</name>
-        <type>boolean</type>
-        <label>HasOxygenSaturation</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasPressure</name>
-        <type>boolean</type>
-        <label>HasPressure</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasPressureAbsolute</name>
-        <type>boolean</type>
-        <label>HasPressureAbsolute</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasPressureRelative</name>
-        <type>boolean</type>
-        <label>HasPressureRelative</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasSalinity</name>
-        <type>boolean</type>
-        <label>HasSalinity</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasDepthInterpolated</name>
-        <type>boolean</type>
-        <label>HasDepthInterpolated</label>
+        <name>time</name>
+        <type>datetime</type>
+        <label>Time</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>

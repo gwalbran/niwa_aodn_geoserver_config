@@ -3,56 +3,7 @@
     <filter>
         <name>stationName</name>
         <type>string</type>
-        <label>StationName</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>datasource</name>
-        <type>string</type>
-        <label>Datasource</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasTemperature</name>
-        <type>boolean</type>
-        <label>HasTemperature</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasSalinity</name>
-        <type>boolean</type>
-        <label>HasSalinity</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasChlorophyllFluorescence</name>
-        <type>boolean</type>
-        <label>HasChlorophyllFluorescence</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasTransmissionOfLight</name>
-        <type>boolean</type>
-        <label>HasTransmissionOfLight</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasFluorescence</name>
-        <type>boolean</type>
-        <label>HasFluorescence</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasComment</name>
-        <type>boolean</type>
-        <label>HasComment</label>
+        <label>Station Name</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
@@ -87,14 +38,14 @@
     <filter>
         <name>chlorophyllFluorescence</name>
         <type>decimal</type>
-        <label>ChlorophyllFluorescence</label>
+        <label>Chlorophyll Fluorescence</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
         <name>transmissionOfLight</name>
         <type>decimal</type>
-        <label>TransmissionOfLight</label>
+        <label>Transmission Of Light</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
@@ -102,13 +53,6 @@
         <name>fluorescence</name>
         <type>decimal</type>
         <label>Fluorescence</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>comment</name>
-        <type>string</type>
-        <label>Comment</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>

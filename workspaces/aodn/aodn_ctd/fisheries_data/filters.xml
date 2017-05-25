@@ -3,28 +3,7 @@
     <filter>
         <name>stationName</name>
         <type>string</type>
-        <label>StationName</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>datasource</name>
-        <type>string</type>
-        <label>Datasource</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasTemperature</name>
-        <type>boolean</type>
-        <label>HasTemperature</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasSalinity</name>
-        <type>boolean</type>
-        <label>HasSalinity</label>
+        <label>Station Name</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>

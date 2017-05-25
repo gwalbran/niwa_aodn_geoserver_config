@@ -3,70 +3,28 @@
     <filter>
         <name>stationName</name>
         <type>string</type>
-        <label>StationName</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>datasource</name>
-        <type>string</type>
-        <label>Datasource</label>
+        <label>Station Name</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
         <name>startTime</name>
         <type>datetime</type>
-        <label>StartTime</label>
+        <label>Start Time</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
         <name>endTime</name>
         <type>datetime</type>
-        <label>EndTime</label>
+        <label>End Time</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
-        <name>hasTemperature</name>
-        <type>boolean</type>
-        <label>HasTemperature</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasSalinity</name>
-        <type>boolean</type>
-        <label>HasSalinity</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasChlorophyllFluorescence</name>
-        <type>boolean</type>
-        <label>HasChlorophyllFluorescence</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasTransmissionOfLight</name>
-        <type>boolean</type>
-        <label>HasTransmissionOfLight</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasFluorescence</name>
-        <type>boolean</type>
-        <label>HasFluorescence</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>hasComment</name>
-        <type>boolean</type>
-        <label>HasComment</label>
+        <name>time</name>
+        <type>datetime</type>
+        <label>Time</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
