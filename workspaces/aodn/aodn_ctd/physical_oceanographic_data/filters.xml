@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <filters>
     <filter>
-        <name>stationName</name>
+        <name>site</name>
         <type>string</type>
-        <label>Station Name</label>
+        <label>Site</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
@@ -13,47 +13,14 @@
         <label>Time</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
+        <wmsStartDateName>time_coverage_start</wmsStartDateName>
+        <wmsEndDateName>time_coverage_end</wmsEndDateName>
     </filter>
     <filter>
         <name>depth</name>
         <type>decimal</type>
         <label>Depth</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>temperature</name>
-        <type>decimal</type>
-        <label>Temperature</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>salinity</name>
-        <type>decimal</type>
-        <label>Salinity</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>chlorophyllFluorescence</name>
-        <type>decimal</type>
-        <label>Chlorophyll Fluorescence</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>transmissionOfLight</name>
-        <type>decimal</type>
-        <label>Transmission Of Light</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>fluorescence</name>
-        <type>decimal</type>
-        <label>Fluorescence</label>
-        <visualised>true</visualised>
+        <visualised>false</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>

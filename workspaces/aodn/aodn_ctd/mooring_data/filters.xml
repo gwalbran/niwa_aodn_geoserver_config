@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <filters>
     <filter>
-        <name>stationName</name>
+        <name>site</name>
         <type>string</type>
-        <label>Station Name</label>
+        <label>Site</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
@@ -13,103 +13,14 @@
         <label>Time</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
+	<wmsStartDateName>time_coverage_start</wmsStartDateName>
+	<wmsEndDateName>time_coverage_end</wmsEndDateName>
     </filter>
     <filter>
         <name>depth</name>
         <type>decimal</type>
         <label>Depth</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>temperature</name>
-        <type>decimal</type>
-        <label>Temperature</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>conductivity</name>
-        <type>decimal</type>
-        <label>Conductivity</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>currentDirection</name>
-        <type>decimal</type>
-        <label>Current Direction</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>currentDirectionMagnetic</name>
-        <type>decimal</type>
-        <label>Current Direction Magnetic</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>currentDirectionTrue</name>
-        <type>decimal</type>
-        <label>Current Direction True</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>currentSpeed</name>
-        <type>decimal</type>
-        <label>Current Speed</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>dissolvedOxygen</name>
-        <type>decimal</type>
-        <label>Dissolved Oxygen</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>oxygenSaturation</name>
-        <type>decimal</type>
-        <label>Oxygen Saturation</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>pressure</name>
-        <type>decimal</type>
-        <label>Pressure</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>pressureAbsolute</name>
-        <type>decimal</type>
-        <label>Pressure Absolute</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>pressureRelative</name>
-        <type>decimal</type>
-        <label>Pressure Relative</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>salinity</name>
-        <type>decimal</type>
-        <label>Salinity</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
-        <name>depthInterpolated</name>
-        <type>decimal</type>
-        <label>Depth Interpolated</label>
-        <visualised>true</visualised>
+        <visualised>false</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
