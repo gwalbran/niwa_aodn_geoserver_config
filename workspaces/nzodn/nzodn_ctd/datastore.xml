@@ -1,6 +1,6 @@
 <dataStore>
   <id>DataStoreInfoImpl--536fbeba:15bb1b970c1:-7ffb</id>
-  <name>aodn_ctd</name>
+  <name>nzodn_ctd</name>
   <type>PostGIS</type>
   <enabled>true</enabled>
   <workspace>
@@ -26,7 +26,7 @@
     <entry key="passwd">plain:aodn</entry>
     <entry key="min connections">1</entry>
     <entry key="dbtype">postgis</entry>
-    <entry key="namespace">niwa.co.nz/aodn</entry>
+    <entry key="namespace">nzodn.nz/nzodn</entry>
     <entry key="max connections">10</entry>
     <entry key="Evictor tests per run">3</entry>
     <entry key="Test while idle">true</entry>
