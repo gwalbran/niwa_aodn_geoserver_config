@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <filters>
     <filter>
-        <name>stationName</name>
+        <name>cruise_id</name>
         <type>string</type>
-        <label>Site</label>
+        <label>Cruise ID</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
     </filter>
@@ -15,13 +15,6 @@
         <excludedFromDownload>false</excludedFromDownload>
         <wmsEndDateName>time_coverage_end</wmsEndDateName>
         <wmsStartDateName>time_coverage_start</wmsStartDateName>
-    </filter>
-    <filter>
-        <name>depth</name>
-        <type>decimal</type>
-        <label>Depth</label>
-        <visualised>false</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
     </filter>
     <filter>
         <name>geom</name>

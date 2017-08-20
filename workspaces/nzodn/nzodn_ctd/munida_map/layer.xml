@@ -1,0 +1,15 @@
+<layer>
+  <name>munida_map</name>
+  <id>LayerInfoImpl--5712ce49:15d954b2e90:-5291</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--38a727f2:15dde1de7c5:-5f74</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5712ce49:15d954b2e90:-5292</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

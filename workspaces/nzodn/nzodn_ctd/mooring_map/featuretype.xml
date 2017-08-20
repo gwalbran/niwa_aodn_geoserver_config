@@ -43,7 +43,8 @@
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>
   <enabled>true</enabled>
   <metadata>
-    <entry key="cachingEnabled">false</entry>
+    <entry key="cacheAgeMax">3600</entry>
+    <entry key="cachingEnabled">true</entry>
   </metadata>
   <store class="dataStore">
     <id>DataStoreInfoImpl--536fbeba:15bb1b970c1:-7ffb</id>

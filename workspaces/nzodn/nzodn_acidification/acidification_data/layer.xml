@@ -1,0 +1,15 @@
+<layer>
+  <name>acidification_data</name>
+  <id>LayerInfoImpl-6094ac39:15dbf94411e:-6cfb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3a52b6b4:1428ce0125d:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-6094ac39:15dbf94411e:-6cfc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

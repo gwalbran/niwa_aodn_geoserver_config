@@ -1,0 +1,15 @@
+<layer>
+  <name>co2_map</name>
+  <id>LayerInfoImpl-4b232953:15dc9b564e1:-6d8b</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--38a727f2:15dde1de7c5:-5f8d</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-4b232953:15dc9b564e1:-6d8c</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

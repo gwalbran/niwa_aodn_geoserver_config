@@ -1,0 +1,15 @@
+<layer>
+  <name>nzbathy_map</name>
+  <id>LayerInfoImpl--3f073e53:15d9bad81c4:-7ccf</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3f073e53:15d9bad81c4:-7cca</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3f073e53:15d9bad81c4:-7cd0</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

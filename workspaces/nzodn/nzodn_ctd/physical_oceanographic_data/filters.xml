@@ -1,20 +1,13 @@
 <?xml version="1.0"?>
 <filters>
     <filter>
-        <name>site</name>
-        <type>string</type>
-        <label>Site</label>
-        <visualised>true</visualised>
-        <excludedFromDownload>false</excludedFromDownload>
-    </filter>
-    <filter>
         <name>time</name>
         <type>datetime</type>
         <label>Time</label>
         <visualised>true</visualised>
         <excludedFromDownload>false</excludedFromDownload>
-        <wmsStartDateName>time_coverage_start</wmsStartDateName>
         <wmsEndDateName>time_coverage_end</wmsEndDateName>
+        <wmsStartDateName>time_coverage_start</wmsStartDateName>
     </filter>
     <filter>
         <name>depth</name>

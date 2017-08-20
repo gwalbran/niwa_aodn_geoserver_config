@@ -1,0 +1,37 @@
+<dataStore>
+  <id>DataStoreInfoImpl-4b232953:15dc9b564e1:-6d8e</id>
+  <name>pCO2</name>
+  <type>PostGIS</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--536fbeba:15bb1b970c1:-7ffe</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="schema">co2</entry>
+    <entry key="Evictor run periodicity">300</entry>
+    <entry key="Max open prepared statements">50</entry>
+    <entry key="encode functions">false</entry>
+    <entry key="preparedStatements">false</entry>
+    <entry key="database">aodn_ctd</entry>
+    <entry key="host">localhost</entry>
+    <entry key="Loose bbox">true</entry>
+    <entry key="Estimated extends">true</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="validate connections">true</entry>
+    <entry key="Support on the fly geometry simplification">true</entry>
+    <entry key="Connection timeout">20</entry>
+    <entry key="create database">false</entry>
+    <entry key="port">5432</entry>
+    <entry key="passwd">crypt1:TRh3jvjc/ml3OVfqNAQ56w==</entry>
+    <entry key="min connections">1</entry>
+    <entry key="dbtype">postgis</entry>
+    <entry key="namespace">nzodn.nz/nzodn</entry>
+    <entry key="max connections">10</entry>
+    <entry key="Evictor tests per run">3</entry>
+    <entry key="Test while idle">true</entry>
+    <entry key="user">aodn</entry>
+    <entry key="Max connection idle time">300</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

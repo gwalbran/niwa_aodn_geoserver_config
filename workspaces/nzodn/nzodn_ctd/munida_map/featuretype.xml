@@ -1,37 +1,27 @@
 <featureType>
-  <id>FeatureTypeInfoImpl--536fbeba:15bb1b970c1:-7ff6</id>
-  <name>fisheries_map</name>
-  <nativeName>fisheries_map</nativeName>
+  <id>FeatureTypeInfoImpl--5712ce49:15d954b2e90:-5292</id>
+  <name>munida_map</name>
+  <nativeName>munida_map</nativeName>
   <namespace>
     <id>NamespaceInfoImpl--536fbeba:15bb1b970c1:-7ffd</id>
   </namespace>
-  <title>fisheries_map</title>
+  <title>munida_map</title>
   <keywords>
     <string>features</string>
-    <string>fisheries_map</string>
+    <string>munida_map</string>
   </keywords>
-  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, 
-  DATUM[&quot;World Geodetic System 1984&quot;, 
-    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], 
-    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], 
-  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
-  UNIT[&quot;degree&quot;, 0.017453292519943295], 
-  AXIS[&quot;Geodetic longitude&quot;, EAST], 
-  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
-  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
   <srs>EPSG:4326</srs>
   <nativeBoundingBox>
-    <minx>-179.997333</minx>
-    <maxx>179.989</maxx>
-    <miny>-76.0645</miny>
-    <maxy>-26.59</maxy>
-    <crs>EPSG:4326</crs>
+    <minx>170.72</minx>
+    <maxx>171.629</maxx>
+    <miny>-46.008</miny>
+    <maxy>-45.703</maxy>
   </nativeBoundingBox>
   <latLonBoundingBox>
-    <minx>-179.997333</minx>
-    <maxx>179.989</maxx>
-    <miny>-76.0645</miny>
-    <maxy>-26.59</maxy>
+    <minx>170.72</minx>
+    <maxx>171.629</maxx>
+    <miny>-46.008</miny>
+    <maxy>-45.703</maxy>
     <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
   DATUM[&quot;WGS84&quot;, 
     SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
@@ -43,8 +33,8 @@
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>
   <enabled>true</enabled>
   <metadata>
-    <entry key="cachingEnabled">true</entry>
     <entry key="cacheAgeMax">3600</entry>
+    <entry key="cachingEnabled">true</entry>
   </metadata>
   <store class="dataStore">
     <id>DataStoreInfoImpl--536fbeba:15bb1b970c1:-7ffb</id>

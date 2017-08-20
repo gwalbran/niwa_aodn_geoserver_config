@@ -1,14 +1,14 @@
 <featureType>
-  <id>FeatureTypeInfoImpl--536fbeba:15bb1b970c1:-7ff0</id>
-  <name>physical_oceanographic_map</name>
-  <nativeName>physical_oceanographic_map</nativeName>
+  <id>FeatureTypeInfoImpl--3f073e53:15d9bad81c4:-7cd0</id>
+  <name>nzbathy_map</name>
+  <nativeName>nzbathy_map</nativeName>
   <namespace>
     <id>NamespaceInfoImpl--536fbeba:15bb1b970c1:-7ffd</id>
   </namespace>
-  <title>physical_oceanographic_map</title>
+  <title>nzbathy_map</title>
   <keywords>
     <string>features</string>
-    <string>physical_oceanographic_map</string>
+    <string>nzbathy_map</string>
   </keywords>
   <nativeCRS>GEOGCS[&quot;WGS 84&quot;, 
   DATUM[&quot;World Geodetic System 1984&quot;, 
@@ -21,17 +21,17 @@
   AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
   <srs>EPSG:4326</srs>
   <nativeBoundingBox>
-    <minx>139.438589</minx>
-    <maxx>141.08401</maxx>
-    <miny>-61.124358</miny>
-    <maxy>-60.89576</maxy>
+    <minx>-166.99841464197</minx>
+    <maxx>157.000000576428</maxx>
+    <miny>-57.4999382033028</miny>
+    <maxy>-23.9993740265056</maxy>
     <crs>EPSG:4326</crs>
   </nativeBoundingBox>
   <latLonBoundingBox>
-    <minx>139.438589</minx>
-    <maxx>141.08401</maxx>
-    <miny>-61.124358</miny>
-    <maxy>-60.89576</maxy>
+    <minx>-166.99841464197</minx>
+    <maxx>157.000000576428</maxx>
+    <miny>-57.4999382033028</miny>
+    <maxy>-23.9993740265056</maxy>
     <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
   DATUM[&quot;WGS84&quot;, 
     SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
@@ -43,8 +43,7 @@
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>
   <enabled>true</enabled>
   <metadata>
-    <entry key="cachingEnabled">true</entry>
-    <entry key="cacheAgeMax">3600</entry>
+    <entry key="cachingEnabled">false</entry>
   </metadata>
   <store class="dataStore">
     <id>DataStoreInfoImpl--536fbeba:15bb1b970c1:-7ffb</id>
